@@ -1,5 +1,5 @@
 ---
-name: build-centos-image
+name: build-cosmic
 on:
   pull_request:
     branches:
