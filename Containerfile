@@ -1,4 +1,4 @@
-FROM ghcr.io/ublue-os/bazzite-gnome:stable
+FROM ghcr.io/ublue-os/bluefin:stable
 
 COPY build.sh /tmp/build.sh
 
